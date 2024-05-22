@@ -1,0 +1,166 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+.circle{
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 40px;
+    text-align: center;
+}
+
+.print{
+    font-size: 67px;
+    color: RGB(56, 74, 98);
+    margin-top: 60px;
+
+}
+.print1{
+    font-size: 50px;
+    color: RGB(56, 74, 98);
+    margin-top: 15px;
+}
+
+.step{
+    
+color: #708095;
+
+color:
+RGB(112, 128, 149);
+background-color:
+#000000;
+background-color:
+RGBA(0, 0, 0, 0);
+font-family:
+"SF Pro"
+sans-serif
+Font being Rendered
+SF Pro
+100.0% (web font);
+font-size:
+24px
+
+
+}
+
+.search{
+    color:
+#000000;
+color:
+RGB(0, 0, 0);
+background-color:
+#FFFFFF;
+/* font-weight:
+400; */
+padding: 30px;
+}
+.searchsmall{
+    color: #000000;
+    background-color: white;
+    border: 1px solid white;
+    width: 360px;
+    padding: 20px 0px 20px 8px;
+
+}
+
+.mirror{
+    margin-left: 310px;
+}
+
+.hand{
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+.pop{
+    color:
+#384A62;
+color:
+RGB(56, 74, 98);
+background-color:
+#000000;
+background-color:
+RGBA(0, 0, 0, 0);
+font-size: 30px;
+
+
+}
+
+.pop1{
+    color:
+#384A62;
+color:
+RGB(56, 74, 98);
+background-color:
+#000000;
+background-color:
+RGBA(0, 0, 0, 0);
+font-size: 20px;
+
+}
+
+.para3{
+    color:
+#D77F81;
+color:
+RGB(215, 127, 129);
+background-color:
+#000000;
+background-color:
+RGBA(0, 0, 0, 0);
+font-size: 16px;
+}
+
+.para4{
+    color:
+#D77F81;
+color:
+RGB(215, 127, 129);
+background-color:
+#000000;
+background-color:
+RGBA(0, 0, 0, 0);
+font-size: 14px;
+}
+.image-container:hover .zoom-img {
+    transform: scale(1.2);
+}
+.image-container img{
+    width: 350px;
+    height: 280px;
+}
+.anchor{
+    background-color: rgb(243, 177, 205);
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 2px;
+    width: 100%;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+}
+.menu{
+    color:
+#2B3B56;
+background-color: white;
+border: 1px solid white;
+width: 70px;
+margin-left: 15px;
+text-align: center;
+}
+
+.three{
+    background-color: #ffffff;
+    border: 1px solid white;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.cir{
+    border: 1px solid rgb(103, 97, 97);
+    width: 50px;
+    border-radius: 100%;
+    padding: 10px;
+}
